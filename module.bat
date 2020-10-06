@@ -1,0 +1,1 @@
+cl /c /I . /EHcs /bigobj /Bt+ /std:c++latest winrt/winrt.ixx
